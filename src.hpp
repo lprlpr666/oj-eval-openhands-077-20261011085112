@@ -1,6 +1,3 @@
-#ifndef SRC_HPP
-#define SRC_HPP
-
 namespace sjtu {
     class CrossArray {
     private:
@@ -165,5 +162,3 @@ namespace sjtu {
         capacity = new_capacity;
     }
 }
-
-#endif
